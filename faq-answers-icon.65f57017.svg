@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><defs><style>.cls-1 {
+  fill: #009b37;
+}
+
+.cls-2 {
+  fill: #fff;
+  font-variation-settings: "wght" 700, "wdth" 100;
+  letter-spacing: .04em;
+  font-family: Bahnschrift-Bold, Bahnschrift;
+  font-size: 25px;
+}
+
+</style></defs><g id="design"><g><path class="cls-1" d="M24.61,0c13.83-.21,25.12,10.67,25.38,24.5,.04,2.03-.16,4.01-.58,5.9-.71,3.21-1.13,6.48-1.13,9.76v6.35c0,.97-.79,1.76-1.76,1.76h-6.35c-3.29,0-6.55,.42-9.76,1.13-1.9,.42-3.87,.62-5.9,.58C10.68,49.73-.21,38.44,0,24.61,.21,11.11,11.11,.21,24.61,0Z"></path><text class="cls-2" transform="translate(16.91 33.71)"><tspan x="0" y="0">A</tspan></text></g></g></svg>
